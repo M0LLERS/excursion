@@ -25,3 +25,8 @@ p {
 #copyright {
   text-align: right;
 }
+footer {
+  text-align: right;
+  color: Gray;
+  font-size: 21px;
+}
